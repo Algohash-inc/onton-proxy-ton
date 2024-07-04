@@ -1,0 +1,6 @@
+const burn = 0x595f07bc;                  ;; Standard operation for Jetton burn tokens.
+const burn_notification = 0x7bdd97de;     ;; Standard operation code for Jetton burn notification.
+const excesses = 0xd53276db;              ;; Standard operation code for Jetton sending excess gas.
+const internal_transfer = 0x178d4519;     ;; Standard operation code for Jetton internal transfer.
+const transfer = 0xf8a7ea5;               ;; Standard operation code for Jetton transfer notification.
+const transfer_notification = 0x7362d09c; ;; Standard operation code for Jetton processing incoming tokens.
