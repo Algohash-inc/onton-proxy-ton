@@ -1,0 +1,3 @@
+const INVALID_WORKCHAIN = 101; ;; Send error if workchain is not the same as defined address in message.
+
+const UNSUPPORTED_OP = 0xffff; ;; Send error if operation code in message body does not exist.
